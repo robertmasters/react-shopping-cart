@@ -39,6 +39,7 @@ function App() {
 							<ShoppingCart />
 						</Route>
 					
+						
 				</div>
 				</CartContext.Provider>
 			</ProductContext.Provider>
